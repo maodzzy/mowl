@@ -1,0 +1,62 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "startSession": "Чтобы начать новую сессию, нажмите кнопку Старт",
+    "deleteActivity": "Удалить запись",
+    "duration": "Длительность",
+    "startedAt": "Запущено",
+    "endSession": "Завершить сессию",
+    "endSessionWithoutSave": "Завершить сессию без сохранения",
+    "continueSession": "Продолжить сессию",
+    "timer": "Таймер",
+    "history": "История",
+    "charts": "Отчеты",
+    "settings": "Настройки",
+    "selectDate": "Выберите дату",
+    "name": "Наименование",
+    "description": "Описание",
+    "enterText": "Введите текст",
+    "chooseLanguage": "Выберите язык",
+    "english": "Английский",
+    "russian": "Русский",
+    "shortSession": "Сессия слишком короткая",
+    "sessionRecordRule1": "Сессии короче 1 минуты не записываются",
+    "secondShort": "сек",
+    "minuteShort": "мин",
+    "hourShort": "ч",
+    "dayShort": "д",
+    "to": "до",
+    "dateTime": "{dateTime}",
+    "@dateTime": {
+      "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "hh:mm d MMMM",
+        "isCustomDateFormat": "true"
+      }
+      }
+      },
+      "date": "{date}",
+    "@date": {
+      "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "dd MMMM",
+        "isCustomDateFormat": "true"
+      }
+    }
+  },
+  "duration": "{duration}",
+    "@dadurationte": {
+      "placeholders": {
+      "date": {
+        "type": "Duration",
+        "format": "dd hh:mm",
+        "isCustomDateFormat": "true"
+      }      
+    }
+  },
+  "noData": "Нет Данных"
+}

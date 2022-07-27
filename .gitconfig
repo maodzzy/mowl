@@ -1,0 +1,6 @@
+[user]
+        name = Ruslan Torshin
+        email = torshinrg@gmail.com
+
+[core]
+    sshCommand = "/usr/bin/ssh -i /home/rus/.ssh/my_rsa"

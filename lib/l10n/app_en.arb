@@ -1,0 +1,63 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "startSession": "Start a new session by clicking the play button",
+    "deleteActivity": "Delete activity",
+    "duration": "Duration",
+    "startedAt": "Started at",
+    "endSession": "End Session",
+    "endSessionWithoutSave": "End session without saving",
+    "continueSession": "Continue session",
+    "timer": "Timer",
+    "history": "History",
+    "charts": "Charts",
+    "settings": "Settings",
+    "selectDate": "Select Date",
+    "name": "Name",
+    "description": "Description",
+    "enterText": "Please enter some text",
+    "chooseLanguage": "Choose language",
+    "english": "English",
+    "russian": "Russian",
+    "shortSession": "Your session too short",
+    "sessionRecordRule1": "Sessions that are less than 1 minute won't be recorded",
+    "secondShort": "s",
+    "minuteShort": "m",
+    "hourShort": "h",
+    "dayShort": "d",
+    "to": "to",
+    "dateTime": "{dateTime}",
+    "@dateTime": {
+      "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "MMMM dd hh:mm",
+        "isCustomDateFormat": "true"
+      }      
+    }
+  },
+  "date": "{date}",
+    "@date": {
+      "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMM dd",
+        "isCustomDateFormat": "true"
+      }      
+    }
+  },
+  "duration": "{duration}",
+    "@dadurationte": {
+      "placeholders": {
+      "date": {
+        "type": "Duration",
+        "format": "dd hh:mm",
+        "isCustomDateFormat": "true"
+      }      
+    }
+  },
+  "noData": "No Data"
+
+}
